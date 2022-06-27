@@ -1,0 +1,22 @@
+@import 'normalize.css';
+
+:root{
+    --primary: #fe2c55;
+    --default-layout-header-heigh: 60px;
+    --default-layout-width: 1150px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    text-rendering: optimizespeed;
+}
